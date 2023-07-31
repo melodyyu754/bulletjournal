@@ -1,0 +1,28 @@
+.name {
+    -fx-font-family: Roboto-Mono;
+    -fx-font-size: 18;
+    -fx-text-fill: #000000;
+}
+
+.label {
+    -fx-font-family: Roboto-Mono;
+    -fx-font-size: 14;
+    -fx-text-fill: #000000;
+    -fx-background-color: #D3D3D3;
+}
+
+.text-field {
+    -fx-background-color: white;
+}
+
+.button-bar {
+    -fx-background-color: white;
+}
+
+.anchor-pane {
+    -fx-background-color: white;
+}
+
+.vbox {
+    -fx-background-color: #D3D3D3;
+}

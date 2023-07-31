@@ -1,0 +1,28 @@
+.name {
+    -fx-font-family: Satisfy;
+    -fx-font-size: 22;
+    -fx-text-fill: #FFDAB9;
+}
+
+.label {
+    -fx-font-family: Satisfy;
+    -fx-font-size: 14;
+    -fx-text-fill: #FFDAB9;
+    -fx-background-color: #DA70D6;
+}
+
+.text-field {
+    -fx-background-color: #FF4500;
+}
+
+.button-bar {
+    -fx-background-color: #FF4500;
+}
+
+.anchor-pane {
+    -fx-background-color: #FF4500;
+}
+
+.vbox {
+    -fx-background-color: #DA70D6;
+}

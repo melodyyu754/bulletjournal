@@ -1,0 +1,28 @@
+.name {
+    -fx-font-family: Veranda;
+    -fx-font-size: 26;
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-font-family: Veranda;
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+    -fx-background-color: #808000;
+}
+
+.text-field {
+    -fx-background-color: #D2B48C;
+}
+
+.button-bar {
+    -fx-background-color: #D2B48C;
+}
+
+.anchor-pane {
+    -fx-background-color: #D2B48C;
+}
+
+.vbox {
+    -fx-background-color: #808000;
+}
